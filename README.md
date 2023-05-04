@@ -22,13 +22,13 @@ Text : ATTACKATONCE
 Shift: 4
 Cipher: EXXEGOEXSRGI
 
-# Advantages:
+# Advantages:-
 Easy to implement and use thus, making suitable for beginners to learn about encryption.
 Can be physically implemented, such as with a set of rotating disks or a set of cards, known as a scytale, which can be useful in certain situations.
 Requires only a small set of pre-shared information.
 Can be modified easily to create a more secure variant, such as by using a multiple shift values or keywords.
 
-# Disadvantages:
+# Disadvantages:-
 It is not secure against modern decryption methods.
 Vulnerable to known-plaintext attacks, where an attacker has access to both the encrypted and unencrypted versions of the same messages.
 The small number of possible keys means that an attacker can easily try all possible keys until the correct one is found, making it vulnerable to a brute force attack.
